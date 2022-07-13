@@ -1,0 +1,14 @@
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\bin\Debug\net6.0\DemoBookstore.Model.deps.json
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\bin\Debug\net6.0\DemoBookstore.Model.dll
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\bin\Debug\net6.0\DemoBookstore.Model.pdb
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.csproj.AssemblyReference.cache
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.AssemblyInfoInputs.cache
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.AssemblyInfo.cs
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.csproj.CoreCompileInputs.cache
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.dll
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\refint\DemoBookstore.Model.dll
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.pdb
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\ref\DemoBookstore.Model.dll
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\bin\Debug\net6.0\DemoBookstore.Model.runtimeconfig.json
+F:\Collage\Sem-7\2022 Intership\VS\DemoBookstore.Model\obj\Debug\net6.0\DemoBookstore.Model.genruntimeconfig.cache

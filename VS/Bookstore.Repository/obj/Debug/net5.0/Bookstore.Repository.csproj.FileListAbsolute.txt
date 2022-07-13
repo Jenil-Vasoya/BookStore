@@ -1,0 +1,15 @@
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\bin\Debug\net5.0\Bookstore.Repository.deps.json
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\bin\Debug\net5.0\Bookstore.Repository.dll
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\bin\Debug\net5.0\Bookstore.Repository.pdb
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\bin\Debug\net5.0\Bookstore.models.dll
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\bin\Debug\net5.0\Bookstore.models.pdb
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.csproj.AssemblyReference.cache
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.AssemblyInfoInputs.cache
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.AssemblyInfo.cs
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.csproj.CoreCompileInputs.cache
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.csproj.CopyComplete
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.dll
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\refint\Bookstore.Repository.dll
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.pdb
+F:\Collage\Sem-7\2022 Intership\VS\Bookstore.Repository\obj\Debug\net5.0\ref\Bookstore.Repository.dll

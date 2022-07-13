@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DempAPI", "DempAPI.csproj", "{8A60B4B4-9514-4E16-9C56-022E22CDC4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBookstore.Model", "..\DemoBookstore.Model\DemoBookstore.Model.csproj", "{BC20EFBC-DB22-497A-A522-255E70596D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A60B4B4-9514-4E16-9C56-022E22CDC4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A60B4B4-9514-4E16-9C56-022E22CDC4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A60B4B4-9514-4E16-9C56-022E22CDC4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A60B4B4-9514-4E16-9C56-022E22CDC4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC20EFBC-DB22-497A-A522-255E70596D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC20EFBC-DB22-497A-A522-255E70596D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC20EFBC-DB22-497A-A522-255E70596D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC20EFBC-DB22-497A-A522-255E70596D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EAA221-93EF-43AA-BD5E-423C3F62E575}
+	EndGlobalSection
+EndGlobal
